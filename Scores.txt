@@ -1,0 +1,14 @@
+Score: 200
+Min: 0 Sec: 11
+Date: 2022-06-07
+Name: ece
+Surname: �nel
+Score: 1300
+Min: 0 Sec: 37
+Date: 2022-06-07
+Name: ece
+Surname: �neldemo
+Score: 300
+Min: 0 Sec: 15
+Date: 2022-06-08
+
